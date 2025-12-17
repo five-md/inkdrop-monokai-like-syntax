@@ -9,6 +9,10 @@
   "styleSheets": [
     "index.css"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/five-md/inkdrop-monokai-like-syntax"
+  },
   "engines": {
     "inkdrop": "^5.x"
   }
