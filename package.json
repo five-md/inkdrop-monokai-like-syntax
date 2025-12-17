@@ -1,7 +1,7 @@
 {
+  "name": "monokai-like-dark-syntax",
   "version": "1.0.0",
-  "name": "default-light-syntax",
-  "description": "Default light syntax theme",
+  "description": "Monokai like syntax theme for Inkdrop.",
   "theme": "syntax",
   "scripts": {
     "build": "lessc styles/less/default.less ./styles/index.css"
