@@ -1,6 +1,6 @@
 {
   "name": "monokai-like-dark-syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Monokai like syntax theme for Inkdrop.",
   "theme": "syntax",
   "scripts": {
